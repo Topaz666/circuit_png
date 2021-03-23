@@ -1,0 +1,7 @@
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\bin\Debug\circuit_png.exe.config
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\bin\Debug\circuit_png.exe
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\bin\Debug\circuit_png.pdb
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\obj\Debug\circuit_png.csprojAssemblyReference.cache
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\obj\Debug\circuit_png.csproj.CoreCompileInputs.cache
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\obj\Debug\circuit_png.exe
+C:\Users\yuhon\source\repos\circuit_png\circuit_png\obj\Debug\circuit_png.pdb
